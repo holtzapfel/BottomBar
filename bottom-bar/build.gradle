@@ -5,7 +5,7 @@ ext {
     bintrayRepo = 'maven'
     bintrayName = 'bottom-bar'
 
-    publishedGroupId = 'com.github.holtzapfel'
+    publishedGroupId = 'com.roughike'
     libraryName = 'bottom-bar'
     artifact = 'bottom-bar'
 
